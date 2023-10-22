@@ -1,4 +1,4 @@
 # Khushivimu
 This is my first git repository
 <br>
-Authoe:Khushi Pandey
+Author:Khushi Pandey
